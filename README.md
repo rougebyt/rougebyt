@@ -1,4 +1,4 @@
-Hi, I'm [@rougebyt](https://github.com/rougebyt) – Moibon Dereje 👋
+<h1 align="center">Hi, I'm <a href="https://github.com/rougebyt">@rougebyt</a> – Moibon Dereje 👋</h1>
 
 I'm a 🐍 **Python-first** developer — I live in Python and its ecosystem (Django, FastAPI, Pandas, NumPy, Scikit-Learn, asyncio). I build machine learning models with XGBoost, TensorFlow, and PyTorch, and also focus on backend development and cross‑platform mobile apps with Flutter. I automate everything from web scraping to CI/CD.
 
