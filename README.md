@@ -41,7 +41,7 @@ When needed I write backend or systems code in Java, Kotlin, C++, C#, and JavaSc
 | **Backend**   | FastAPI, Flask, Django, Node.js, Express                  |
 | **Databases** | PostgreSQL, MySQL, MongoDB, Redis, SQLite                 |
 | **DevOps**    | Docker, GitHub Actions, Terraform, Ansible, AWS, Firebase |
-| **Languages** | Python (main) 🐍, Java, Kotlin, JS/TS, C++, C#            |
+| **Languages** | Python (main), Java, Kotlin, JS/TS, C++, C#            |
 
 ---
 
