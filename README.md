@@ -7,31 +7,6 @@ On the security side, I do pen‑testing 🛡️⚔️ using tools like Metasplo
 When needed I write backend or systems code in Java, Kotlin, C++, C#, and JavaScript. DevOps, Docker, GitHub Actions, AWS, and Firebase are part of my daily workflow. I love Linux's Bash — I use it daily for shell scripting, automation, and system work. 🐧💻
 
 ---
-### 🐍 Python
-
-- **Core**
-  -- Python 3.x (asyncio, multiprocessing, decorators, metaclasses)
-- **Data**
-  -- Pandas, NumPy, Matplotlib, Seaborn, Polars
-- **ML**
-  -- Scikit-Learn, XGBoost, LightGBM, TensorFlow, PyTorch
-- **Automation**
-  -- Selenium, Playwright, Requests, BeautifulSoup, FastAPI
-
-### Pen-Testing & Security 🛡️⚔️
-
-- **Recon**
-  -- Nmap, Masscan, Shodan, theHarvester
-- **Exploitation**
-  -- Metasploit, sqlmap, Burp Suite, OWASP ZAP
-- **Web**
-  -- XSS, CSRF, SSTI, IDOR, JWT cracking
-- **Network**
-  -- Wireshark, tcpdump, Scapy
-- **Reporting**
-  -- Custom Markdown/PDF templates, Dradis
-
-
 
 ### Tech Stack
 
