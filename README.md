@@ -18,14 +18,6 @@ When needed I write backend or systems code in Java, Kotlin, C++, C#, and JavaSc
 | **DevOps**    | Docker, GitHub Actions, Terraform, Ansible, AWS, Firebase |
 | **Languages** | Python (main), Java, Kotlin, JS/TS, C++, C#            |
 
----
-
-### 📊 GitHub Stats
-
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rougebyt&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-
-
 
 
 ---
