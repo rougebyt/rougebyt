@@ -12,7 +12,7 @@ When needed I write backend or systems code in Java, Kotlin, C++, C#, and JavaSc
 
 | Category      | Tools                                                     |
 | ------------- | --------------------------------------------------------- |
-| **Mobile**    | Flutter, Dart, Android (Kotlin), Firebase                 |
+| **Mobile**    | Flutter, Android (Kotlin), Firebase                 |
 | **Backend**   | FastAPI, Flask, Django, Node.js, Express                  |
 | **Databases** | PostgreSQL, MySQL, MongoDB, Redis, SQLite                 |
 | **DevOps**    | Docker, GitHub Actions, Terraform, Ansible, AWS, Firebase |
